@@ -1,6 +1,6 @@
 # Nintendo DS Game
 
-An infinite runner built for the Nintendo DS using [BlocksDS](https://blocksds.skylyrac.net/docs/). This is a learning project — built to get hands-on with homebrew NDS development, low-level graphics/audio handling, and the BlocksDS toolchain.
+An infinite runner built for the Nintendo DS using [BlocksDS](https://blocksds.skylyrac.net/docs/).
 
 ## Features
 

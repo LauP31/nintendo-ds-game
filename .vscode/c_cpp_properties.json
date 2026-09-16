@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "BlocksDS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/blocksds-headers/core/libs/libnds/include",
+                "${workspaceFolder}/blocksds-headers/core/libs/dswifi/include",
+                "${workspaceFolder}/blocksds-headers/core/libs/maxmod/include",
+                "${workspaceFolder}/blocksds-headers/core/libs/libteak/include",
+                "${workspaceFolder}/build/homebrew_game_one/maxmod"
+            ],
+            "defines": [
+                "ARM9"
+            ],
+            "cStandard": "c11",
+            "intelliSenseMode": "linux-gcc-arm"
+        }
+    ],
+    "version": 4
+}

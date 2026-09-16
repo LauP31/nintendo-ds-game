@@ -1,0 +1,9 @@
+*.nds
+*.sav
+build/
+build-all/
+blocksds-headers/
+# *.wav
+# *.it
+# *.grit
+# *.png

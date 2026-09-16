@@ -1,0 +1,1 @@
+docker run --rm -v "$PWD:/work:z" -w /work skylyrac/blocksds:slim-latest make

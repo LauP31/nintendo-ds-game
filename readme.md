@@ -2,6 +2,8 @@
 
 An infinite runner built for the Nintendo DS using [BlocksDS](https://blocksds.skylyrac.net/docs/).
 
+![Gameplay](gameplay.gif)
+
 ## Features
 
 - Player movement and jumping

@@ -6,7 +6,7 @@ BLOCKSDS	?= /opt/blocksds/core
 
 # User config
 
-NAME		:= homebrew_game_one
+NAME		:= InfiniteRunner
 GAME_TITLE	:= Infinite runner game
 GAME_SUBTITLE	:= 
 GAME_AUTHOR ?=
